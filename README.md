@@ -30,4 +30,4 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
 - Sendo organizados para serem postados.
 
 # Contato ✉️
-- [Envie um e-mail](mailto:joaopedroaveiro2016@gmail.com) 📨.
+- [joaopedroaveiro2016@gmail.com](mailto:joaopedroaveiro2016@gmail.com) 📨.
