@@ -2,11 +2,11 @@
 Sou João Pedro Aveiro, sou entusiasta e adoro tecnologia e programação. Neste perfil, encontrará algumas "coisinhas" que tenho feito ultimamente!
 
 # Sobre mim ⛩️
-Tive meu primeiro contato com programação aos **11/12 anos**, quando desenvolvi meu primeiro BOT no Discord em **JavaScript**. Em apenas 2 meses, ele já havia alcançado cerca de **20,000** usuários!
+Tive meu primeiro contato com programação aos 13/14 anos, quando desenvolvi meu primeiro BOT no Discord em JavaScript. Em apenas 2 meses, ele já havia alcançado cerca de **20,000** usuários.
 
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**;
-- 🗣️ Sou uma pessoa comunicativa;
-- 📌 Prezo pela profissionalidade.
+- 🗣️ Comunicação
+- 📌  Profissionalismo
 
 Estou empolgado para compartilhar mais sobre minha jornada e experiência no mundo da programação! ✨
 
@@ -26,7 +26,7 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
 ![Blog](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 # Projetos 📂
-- Sendo organizados para serem postados.
+- JavaMart
 
 # Contato ✉️
 - [joaopedroaveiro2016@gmail.com](mailto:joaopedroaveiro2016@gmail.com) 📨.
