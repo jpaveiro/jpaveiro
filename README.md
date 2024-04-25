@@ -26,6 +26,7 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
 ![Blog](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 # Projetos 📂
+- BasicT - NG
 - JavaMart
 - BancoDigital
 - Zefir
