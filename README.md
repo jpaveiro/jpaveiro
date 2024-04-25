@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo! 👋
-Sou João Pedro Aveiro, sou entusiasta e adoro tecnologia e programação. Neste perfil, encontrará algumas "coisinhas" que tenho feito ultimamente!
+Sou João Pedro Aveiro, entusiasta e amante de tecnologia e programação. Neste perfil, encontrará algumas "coisinhas" que tenho feito ultimamente!
 
 # Sobre mim ⛩️
 Tive meu primeiro contato com programação aos 11/12 anos, quando desenvolvi meu primeiro BOT no Discord em JavaScript. Em apenas 2 meses, ele já havia alcançado cerca de **20,000** usuários.
