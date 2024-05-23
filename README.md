@@ -27,9 +27,6 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
 
 # Projetos 📂
 - BasicT - NG
-- JavaMart
-- BancoDigital
-- Zefir
 
 # Contato ✉️
 - [joaopedroaveiro2016@gmail.com](mailto:joaopedroaveiro2016@gmail.com) 📨.
