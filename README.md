@@ -30,7 +30,7 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
 </div>
 
 # Projetos 📂
-- BasicT - NG
+- [WebApp PDV BasicT - NG](https://github.com/jpaveiro/BasicT-NG)
 
 # Contato ✉️
 - [joaopedroaveiro2016@gmail.com](mailto:joaopedroaveiro2016@gmail.com) 📨.
