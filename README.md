@@ -1,11 +1,11 @@
 # Olá, seja bem-vindo! 👋
 Sou João Pedro Aveiro, entusiasta e amante de tecnologia e programação. Neste perfil, encontrará algumas "coisinhas" que tenho feito ultimamente!
 
-# Sobre mim ⛩️
+# Sobre mim 🧑
 Tive meu primeiro contato com programação aos 11/12 anos, quando desenvolvi meu primeiro BOT no Discord em JavaScript. Em apenas 2 meses, ele já havia alcançado cerca de **20,000** usuários.
 
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **ETEC**;
-- 📚 Autodidata.
+- 📚 Sou autodidata.
 
 Estou empolgado para compartilhar mais sobre minha jornada e experiência no mundo da programação! ✨
 
@@ -21,7 +21,7 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
     <img width="48" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 </div>
 
-# In work 🛠🔨
+# In work 🛠
 <div style="display: flex; gap: 5px;">
     <img width="48" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
     <img width="48" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
