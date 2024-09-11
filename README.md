@@ -30,8 +30,10 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
 </div>
 
 # Projetos 📂
-- [WebApp PDV BasicT - NG](https://github.com/jpaveiro/BasicT-NG)
-  - Full-Stack
+<div>
+    <h4>BasicT-NG | WebApp PDV</h4>
+    <a href="https://github.com/jpaveiro/basicT-NG">Ver repositório</a>
+</div>
 
 # Contato ✉️
 - [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-aveiro-614067284?original_referer=https%3A%2F%2Fwww.bing.com%2F) 🤝
