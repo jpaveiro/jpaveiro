@@ -34,4 +34,5 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
   - Full-Stack
 
 # Contato ✉️
-- [joaopedroaveiro2016@gmail.com](mailto:joaopedroaveiro2016@gmail.com) 📨.
+- [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-aveiro-614067284?original_referer=https%3A%2F%2Fwww.bing.com%2F) 🤝
+- [joaopedroaveiro2016@gmail.com](mailto:joaopedroaveiro2016@gmail.com) 📨
