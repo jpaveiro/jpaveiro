@@ -21,7 +21,7 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
     <img width="48" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 </div>
 
-# In work 🛠
+# Working 🛠
 <div style="display: flex; gap: 5px;">
     <img width="48" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
     <img width="48" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
