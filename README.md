@@ -39,3 +39,7 @@ Estou empolgado para compartilhar mais sobre minha jornada e experiência no mun
 # Contato ✉️
 - [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-aveiro-614067284?original_referer=https%3A%2F%2Fwww.bing.com%2F) 🤝
 - [joaopedroaveiro2016@gmail.com](mailto:joaopedroaveiro2016@gmail.com) 📨
+
+<div align="center">
+	<img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaveiro&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117" />
+</div>
