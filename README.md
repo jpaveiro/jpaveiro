@@ -17,8 +17,8 @@ Seja **muito bem-vindo** ao meu perfil.
 <br>
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaveiro&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaveiro&show_icons=true&icon_color=dc6601&ring_color=dc6601&show=prs_merged_percentage&locale=pt-br&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaveiro&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaveiro&layout=donut&locale=pt-br&theme=dark)
 
 </div>
