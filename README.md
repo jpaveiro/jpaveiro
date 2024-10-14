@@ -14,7 +14,7 @@ Seja **muito bem-vindo** ao meu perfil.
 
 - *Análise e Desenvolvimento de Sistemas @ ETEC Horácio Augusto da Silveira*
 
-<br><br>
+<br>
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaveiro&show_icons=true&theme=dark)
