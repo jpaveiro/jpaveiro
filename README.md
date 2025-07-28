@@ -5,7 +5,7 @@ Seja **muito bem-vindo** ao meu perfil.
 <br><br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,typescript,python,cs,spring,angular,nextjs,mysql,postgresql,mongodb,git&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,typescript,python,spring,angular,mysql,postgresql,mongodb,git&theme=dark">
 </div>
 
 <br>
