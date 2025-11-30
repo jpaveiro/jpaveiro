@@ -12,7 +12,7 @@ Seja **muito bem-vindo** ao meu perfil.
 
 - *Desenvolvedor Back-End Java*
 
-- *Análise e Desenvolvimento de Sistemas @ ETEC Horácio Augusto da Silveira*
+- *Desenvolvimento de Sistemas @ ETEC Horácio Augusto da Silveira*
 
 <br>
 <div align="center">
