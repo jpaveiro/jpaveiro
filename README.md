@@ -5,20 +5,15 @@ Seja **muito bem-vindo** ao meu perfil.
 <br><br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,typescript,python,spring,angular,mysql,postgresql,mongodb,git&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,typescript,cs,python,spring,angular,nextjs,mysql,postgresql,mongodb,linux,git&theme=dark">
 </div>
 
 <br>
 
-- *Desenvolvedor Back-End Java*
+- *Desenvolvedor Full Stack*
 
-- *Desenvolvimento de Sistemas @ ETEC Horácio Augusto da Silveira*
+- *Técnico em Desenvolvimento de Sistemas*
+
+- [![jpaveiros's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpaveiro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaveiro&show_icons=true&icon_color=dc6601&ring_color=dc6601&locale=pt-br&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaveiro&layout=donut&locale=pt-br&theme=dark)
-
-</div>
