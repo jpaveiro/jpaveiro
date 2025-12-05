@@ -14,6 +14,6 @@ Seja **muito bem-vindo** ao meu perfil.
 
 - *Técnico em Desenvolvimento de Sistemas*
 
-- [![jpaveiros's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpaveiro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jpaveiros's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpaveiro&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
