@@ -10,7 +10,7 @@ Seja **muito bem-vindo** ao meu perfil.
 
 <br>
 
-- *Desenvolvedor Full Stack*
+- *Desenvolvedor Backend/Full Stack*
 
 - *Técnico em Desenvolvimento de Sistemas*
 
